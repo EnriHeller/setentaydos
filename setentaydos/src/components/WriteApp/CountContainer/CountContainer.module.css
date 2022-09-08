@@ -1,0 +1,19 @@
+.counterMessage{
+    font-size: 30px;
+    color:white;
+}
+
+.appContainer{
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.appContainer h2{
+    font-size: 42px;
+}
+
+.appContainer textarea{
+    width: 800px
+}

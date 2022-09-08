@@ -1,0 +1,24 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/setentaydos/node_modules
+/back/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/setentaydos/coverage
+
+# production
+/setentaydos/build
+
+# misc
+/setentaydos/.DS_Store
+/setentaydos/.env.local
+/setentaydos/.env.development.local
+/setentaydos/.env.test.local
+/setentaydos/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
